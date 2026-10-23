@@ -1,6 +1,6 @@
 # Project Submission & Review Dashboard
-## Frontend live link: https://project-review-frontend-pi.vercel.app/
-## Backend live link: https://project-review-backend-2sje.vercel.app/
+### Frontend live link: https://project-review-frontend-pi.vercel.app/
+### Backend live link: https://project-review-backend-2sje.vercel.app/
 
 Students submit projects; mentors/admins review them. Backend and frontend are fully separate apps.
 
